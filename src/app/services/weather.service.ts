@@ -7,6 +7,7 @@ import { weatherData } from '../models/weather.model';
 @Injectable({
   providedIn: 'root'
 })
+
 export class WeatherService {
 
   constructor(private http: HttpClient) { }

@@ -147,3 +147,17 @@ body {
     font-size: 0.8em;
     text-align: center;
 }
+
+.copyright {
+    columns: red;
+    margin-bottom: 1em;
+    text-align: center;
+    background-color: var(--shadow-light);
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 1em;
+    columns: var(--grey-1);
+    font-size: 0.8em;
+    text-align: center;
+}
